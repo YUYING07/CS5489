@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25315520-241e-447e-a2e5-c37ef30a009e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/iDNA-ABF-automl.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/analysis/distribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/analysis/person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/config/ConfigLoader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/config/DataLoader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/data/WCSV.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/data/chromosome_general.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/data/chromosome_general2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/data/residue2idx.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/env_test/sample_data/4mC_C.equisetifolia/test.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/env_test/sample_data/4mC_C.equisetifolia/train.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/main/inference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/main/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/model/SpliceAI80nt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/model/TextCNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/module/frame_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/module/model_operation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/preprocess/DatasetGenerator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/preprocess/SeqGenerator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/util/util_bam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/util/util_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak/util/util_metric.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak2/.idea/GeneBreak2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak2/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneBreak2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TumorTree/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TumorTree/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TumorTree/data/41467_2020_20059_MOESM12_ESM.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TumorTree/data/GSE152048_BC10.matrix.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/config_init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/hparams/ClassificationDNAbert.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/hparams/FusionDNAbert.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/hparams/TextCNN.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/load_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/load_constant.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/settings/Lightning.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/settings/Script.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/settings/Script[bert].yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/settings/Script[fusion].yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/settings/Script[textcnn].yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../env_test/test_data_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../env_test/test_gpus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../env_test/test_lightning_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../env_test/test_metrics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../env_test/test_packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../env_test/test_run_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../env_test/test_tokenizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frame/DataManager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frame/IOManager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frame/Learner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frame/ModelManager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frame/Visualizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/101/test.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/101/train.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/101/valid.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/fasta/test_neg.fasta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/fasta/test_output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/fasta/test_output.clstr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/fasta/test_pos.fasta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/fasta/train_neg.fasta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/fasta/train_output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/fasta/train_output.clstr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/fasta/train_pos.fasta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/fasta/valid_neg.fasta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/fasta/valid_output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/fasta/valid_output.clstr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/fasta/valid_pos.fasta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/test.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/train.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/ALL/501/valid.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/START/501/test.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/START/501/train.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/START/501/valid.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/START/501_TN/test.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/START/501_TN/train.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/START/501_TN/valid.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/insertion/test.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/insertion/train.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/ESSC/dataset/insertion/valid.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/MC/trainS.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/MC/trainT.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/MC/validS.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/data/MC/validT.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/env_test/model_gpu_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../iDNA_ABT/env_test/model_gpu_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/model/BERT_TEXTCNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../iDNA_ABT/model/BERT_TEXTCNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/model/Bert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../iDNA_ABT/model/Bert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/model/SpliceAI-400nt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/model/SpliceAI400nt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../iDNA_ABT/model/SpliceAI400nt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/model/SpliceAI80nt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../iDNA_ABT/model/SpliceAI80nt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/model/iDNA_ABT.py" beforeDir="false" afterPath="$PROJECT_DIR$/../iDNA_ABT/model/iDNA_ABT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iDNA_ABT/train/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../iDNA_ABT/train/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main/inference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main/train_ABF.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main/train_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/ClassificationDNAbert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/DNAbert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/FGM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/Focal_Loss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/FusionDNAbert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/Pretrain_Feature_Extractor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model/TextCNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module/lightning_data_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module/lightning_frame_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module/run_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nni/config_bert.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nni/config_fusion.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nni/pl_nni_train_bert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nni/pl_nni_train_fusion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nni/search_space_bert.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nni/search_space_idna.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preprocess/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preprocess/Vcf2Bedpe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preprocess/analyze_checkpoints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preprocess/analyze_quality.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preprocess/generate_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preprocess/generate_images.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preprocess/generate_seq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preprocess/generate_vcf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preprocess/sample.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preprocess/select_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preprocess/shell.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/util_channels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/util_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/util_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/util_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/util_metric.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/util_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/util_tokenizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/util_visual.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K4sxciEErYdok97vFp620iTNKa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "C:/Users/yingyinyu3/PycharmProjects/CS5489",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yingyinyu3\PycharmProjects\CS5489" />
+      <recent name="C:\Users\yingyinyu3\PycharmProjects\CS5489\T9" />
+      <recent name="C:\Users\yingyinyu3\PycharmProjects\CS5489\Assignment2" />
+      <recent name="C:\Users\yingyinyu3\PycharmProjects\CS5489\Assignment1" />
+      <recent name="C:\Users\yingyinyu3\PycharmProjects\CS5489\T6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yingyinyu3\PycharmProjects\CS5489" />
+      <recent name="C:\Users\yingyinyu3\PycharmProjects\CS5489\Course Project" />
+      <recent name="C:\Users\yingyinyu3\PycharmProjects\CS5489\T10" />
+      <recent name="C:\Users\yingyinyu3\PycharmProjects\CS5489\T9" />
+      <recent name="C:\Users\yingyinyu3\PycharmProjects\CS5489\T8" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="public_timeseries_testing_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS5489" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course Project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course Project/public_timeseries_testing_util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.public_timeseries_testing_util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25315520-241e-447e-a2e5-c37ef30a009e" name="Changes" comment="" />
+      <created>1673245437003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673245437003</updated>
+      <workItem from="1673245438226" duration="1054000" />
+      <workItem from="1673267884067" duration="3489000" />
+      <workItem from="1673426536325" duration="1715000" />
+      <workItem from="1674654562505" duration="2172000" />
+      <workItem from="1675140840869" duration="1229000" />
+      <workItem from="1675431018218" duration="10071000" />
+      <workItem from="1675496346266" duration="352000" />
+      <workItem from="1675954535101" duration="7198000" />
+      <workItem from="1676257682978" duration="615000" />
+      <workItem from="1676265670534" duration="206000" />
+      <workItem from="1676266709872" duration="1208000" />
+      <workItem from="1676722767864" duration="3568000" />
+      <workItem from="1676726658293" duration="11708000" />
+      <workItem from="1676796911700" duration="1044000" />
+      <workItem from="1676797974189" duration="432000" />
+      <workItem from="1676798420867" duration="11056000" />
+      <workItem from="1676815727213" duration="4315000" />
+      <workItem from="1676856507090" duration="15120000" />
+      <workItem from="1676980270056" duration="11978000" />
+      <workItem from="1677230627301" duration="6148000" />
+      <workItem from="1677252446896" duration="1766000" />
+      <workItem from="1677422091352" duration="601000" />
+      <workItem from="1677585832200" duration="5653000" />
+      <workItem from="1677592463621" duration="727000" />
+      <workItem from="1677593281276" duration="62000" />
+      <workItem from="1677673751387" duration="293000" />
+      <workItem from="1677848521170" duration="3371000" />
+      <workItem from="1678080547729" duration="719000" />
+      <workItem from="1678350835401" duration="298000" />
+      <workItem from="1678440191045" duration="1752000" />
+      <workItem from="1678693957707" duration="7277000" />
+      <workItem from="1679230294350" duration="55822000" />
+      <workItem from="1679455091832" duration="3216000" />
+      <workItem from="1679458676398" duration="7616000" />
+      <workItem from="1680001714817" duration="5260000" />
+      <workItem from="1680332506775" duration="8130000" />
+      <workItem from="1680357343547" duration="4216000" />
+      <workItem from="1680425919935" duration="12547000" />
+      <workItem from="1680750392626" duration="594000" />
+      <workItem from="1680764460700" duration="5515000" />
+      <workItem from="1680781835740" duration="1642000" />
+      <workItem from="1680850460065" duration="12383000" />
+      <workItem from="1681043334402" duration="2914000" />
+      <workItem from="1681302638041" duration="598000" />
+      <workItem from="1681308604248" duration="599000" />
+      <workItem from="1681456973159" duration="593000" />
+      <workItem from="1681479444560" duration="8000" />
+      <workItem from="1681701914359" duration="593000" />
+      <workItem from="1681707072596" duration="1298000" />
+      <workItem from="1681715377672" duration="7000" />
+      <workItem from="1681715405620" duration="30000" />
+      <workItem from="1681826485765" duration="9168000" />
+      <workItem from="1682048140910" duration="2205000" />
+      <workItem from="1682052896945" duration="517000" />
+      <workItem from="1682060471670" duration="172000" />
+      <workItem from="1682060799389" duration="1266000" />
+      <workItem from="1682083588797" duration="665000" />
+      <workItem from="1682340983729" duration="615000" />
+      <workItem from="1684568009382" duration="2727000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS5489$public_timeseries_testing_util.coverage" NAME="public_timeseries_testing_util Coverage Results" MODIFIED="1680783370404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course Project" />
+  </component>
+</project>
