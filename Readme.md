@@ -5,8 +5,7 @@ City University of Hong Kong 2022/23 Semester B CS5489 Machine Learning: Algorit
 ### Teaching Activities
 
 - Lectures (2 hours per week): lecture1-12
-https://drive.google.com/file/d/1ERJhcdLeu7HkuieuBXE-l33l3Dvsj-kw/view?usp=sharing
-
+- Download: https://drive.google.com/file/d/1ERJhcdLeu7HkuieuBXE-l33l3Dvsj-kw/view?usp=sharing
 - Tutorials (1 hour per week): T1-T10
 - Assignments (2)
 - Course Project: Individual or two-person teams(recommended)
